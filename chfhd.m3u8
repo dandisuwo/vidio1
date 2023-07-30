@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+https://etslive-2-vidio-com.akamaized.net/exp=1690710619~acl=/hls-p/ingest_205_*/*~hmac=2e34b0d63821d7b56140d0b8f9ba28ccf865394f75661e789f544ccfa0059e61/hls-p/ingest_205_360p/index.m3u8
