@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1690872304~acl=/hls-b/ingest_205_*/*~hmac=6d1e71665d25831aade99304c6b1505ceaed0d6b222cf27fdb3676bbb8feb4c3/hls-b/ingest_205_480p/index.m3u8
