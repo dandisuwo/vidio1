@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=28292939
-https://etslive-2-vidio-com.akamaized.net/exp=1704216052~acl=/hls-p/ingest_16836_*/*~hmac=39d56373199ea400dd39e6b778db6e980853b2562574a3fb69706d0e01a77110/hls-p/ingest_16836_720p/index.m3u8
+
+https://livesport.xyssatu.workers.dev/
