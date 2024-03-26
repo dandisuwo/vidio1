@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=28292939
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/tfaekrzz3fzc5obb348zilehdcgsi3jwsl5s/hdntl=exp=1711481465~acl=*%2ftfaekrzz3fzc5obb348zilehdcgsi3jwsl5s%2f*~data=hdntl~hmac=6af58db5ddcb1a03b278787498975d62cac70d72de291d769b202958c1215acc/chunklist_360.stream.m3u8?hdnts=st=1711449044~exp=1711481454~acl=*/tfaekrzz3fzc5obb348zilehdcgsi3jwsl5s/*~hmac=a8ee1d6800e7a93fb3c7685bee8367b73614265d29676cfb6f4cfeaf10000c1d
-
 https://live-bd2.tv360.vn/5CDBSjUqS0zaIBjhFoxoLw/1711475628/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-360P-1M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=229419748
 
 
