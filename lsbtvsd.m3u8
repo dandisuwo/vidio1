@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=28292939
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/iniwvsxtw2uifgkygqo3jbzcgsi3jwsh1y/hdntl=exp=1711479477~acl=*%2Finiwvsxtw2uifgkygqo3jbzcgsi3jwsh1y%2F*~data=hdntl~hmac=2d95b1885bffa838e8a065946d759a1161799ea78cf8bbb0cfff906d3660e2a1/chunklist_360.stream.m3u8?hdnts=st=1711447067~exp=1711479477~acl=*/iniwvsxtw2uifgkygqo3jbzcgsi3jwsh1y/*~hmac=1d6ffa6a0e85d07a6d32682baa9c8ff7f9527ceb950e72fd7d74b5b6d3f63313
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/0ksnvmvp5ilsl3d387mvivvbycgsjnofpcdr/hdntl=exp=1711481275~acl=*%2f0ksnvmvp5ilsl3d387mvivvbycgsjnofpcdr%2f*~data=hdntl~hmac=22516191804e71e48d4ab202e0b7cb4c0b3b43f69ffc334ecfbba1a809d28e29/chunklist_360.stream.m3u8?hdnts=st=1711448842~exp=1711481252~acl=*/0ksnvmvp5ilsl3d387mvivvbycgsjnofpcdr/*~hmac=e0d0fd8787d9ecc6b9b917c5cb5c23009a356f6e6bc5771fd51a1b5adeb4160a
+
 https://live-bd2.tv360.vn/5CDBSjUqS0zaIBjhFoxoLw/1711475628/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-360P-1M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=229419748
 
 
