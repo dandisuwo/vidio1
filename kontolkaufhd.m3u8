@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_1080p/hdntl=exp=1722173288~acl=%2f*~id=161176528~data=hdntl~hmac=1a240d19ecf6da6bee31f677ebdfbf9a9db5e0dc09177a1af2bc188777afdebe/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17599_1080p/hdntl=exp=1722181274~acl=%2f*~id=161176528~data=hdntl~hmac=226e309cd8a7fc47f54f5a930dd6c8cfdc8664ee797166a69ea158c1292fe81c/index.m3u8
+
 
 #https://xyssatu.pages.dev/event/segera.m3u8
 
