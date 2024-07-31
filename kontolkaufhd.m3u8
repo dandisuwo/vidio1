@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://xyssatu.pages.dev/event/avc.m3u8
+https://itv.xyssatuu.workers.dev/https://pull.niues.live/live/stream-484845_lhd.m3u8
+
+#https://xyssatu.pages.dev/event/avc.m3u8
 
 #https://xyssatu.pages.dev/event/segera.m3u8
 
