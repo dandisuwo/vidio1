@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_360p/hdntl=exp=1725790922~acl=%2f*~id=161176528~data=hdntl~hmac=8e18b8b3180b706b61ff3e2540cddf251058cbcbcd095c3547e6b44bde0d6bd4/index.m3u8
+https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=206_360p
+
 
 https://th.livestreamingbolatv1.workers.dev/https://obevcimanyd179591709.thapcam.link/8GBTkUbpmHWenQQ2-XlFgw/Fv2lucGIbhPi2caWYvF5Lg/1724610698329/live/may10/chunklist.m3u8
 
