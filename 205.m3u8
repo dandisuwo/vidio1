@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=9000000,AVERAGE-BANDWIDTH=6000000,NAME=1080p,RESOLUTION=1920x1080
-https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=17760_1080p
+https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=205_1080p
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=17760_720p
+https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=205_720p
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=17760_480p
+https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=205_480p
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=800000,NAME=360p,RESOLUTION=480x360
-https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=17760_360p
+https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=205_360p
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=500000,NAME=240p,RESOLUTION=360x240
-https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=17760_240p
+https://xplayns.xyssatuu.workers.dev/xPLAY.m3u8?id=vidhls&ch=205_240p
