@@ -1,0 +1,44 @@
+<html lang="id">
+<head>
+   <title>XYS SATU</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width">
+   <meta name="referrer" content="same-origin">
+   <link rel="stylesheet" href="https://arjunaaaaa.github.io/lsbtv/gaya.css" />
+   <script src="https://xystv.pagfes.dev/player/iframe.js"></script>
+   <script src="https://xystv.pagefs.dev/ifm.js"></script>
+   <script src="https://pidio.pages.dev/player/jw/ifm.js"></script>
+   <script src="https://xystv.pagesf.dev/player/ifm.js"></script>
+   <script src="https://xystv.pages.dev/iframfe.js"></script>
+   <style> 
+       .center { display: flex; justify-content: center; align-items: center; height: 100vh; } 
+   </style>
+</head>
+<body>
+   <div class="center">
+      <iframe title="bang ampun bang" id="wcq" width="100%" height="100%" frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowfullscreen></iframe>
+   </div>
+   
+   <script>
+       // Fungsi untuk mengambil parameter dari URL
+       function getParameterByName(name) {
+           const url = window.location.href;
+           name = name.replace(/[\[\]]/g, '\\$&');
+           const regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+               results = regex.exec(url);
+           if (!results) return null;
+           if (!results[2]) return '';
+           return decodeURIComponent(results[2].replace(/\+/g, ' '));
+       }
+
+       // Mendapatkan id dari parameter URL
+       const idBaru = getParameterByName('id');
+       if (idBaru) {
+           const iframe = document.getElementById('wcq');
+           iframe.id = idBaru; // Mengganti id pada iframe dengan nilai baru
+       }
+   </script>
+</body>
+</html>
