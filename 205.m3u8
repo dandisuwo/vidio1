@@ -1,24 +1,19 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=9000000,AVERAGE-BANDWIDTH=6000000,NAME=1080p,RESOLUTION=1920x1080
-https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_205_1080p/hdntl=exp=1728732457~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=166555479~data=hdntl~hmac=e32b5915d01fd216321f40cd83a4561cf07dd1a14b174cb7eaf4aeb877f1e6c2/index.m3u8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_1080p/hdntl=exp=1729160028~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=156135710~data=hdntl~hmac=ace6868f53fedf97bf0cfb331b345e8208998d9f644d35344321ee81ec6e382a/index.m3u8?hdnts=exp=1729160027~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=156135710~hmac=fb19ad34cc07378612a944863cad0c6a2c4fe3a5b641c05255fef73f9ca63207
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_205_720p/hdntl=exp=1728732457~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=166555479~data=hdntl~hmac=e32b5915d01fd216321f40cd83a4561cf07dd1a14b174cb7eaf4aeb877f1e6c2/index.m3u8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_720p/hdntl=exp=1729160028~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=156135710~data=hdntl~hmac=ace6868f53fedf97bf0cfb331b345e8208998d9f644d35344321ee81ec6e382a/index.m3u8?hdnts=exp=1729160027~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=156135710~hmac=fb19ad34cc07378612a944863cad0c6a2c4fe3a5b641c05255fef73f9ca63207
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_205_480p/hdntl=exp=1728732457~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=166555479~data=hdntl~hmac=e32b5915d01fd216321f40cd83a4561cf07dd1a14b174cb7eaf4aeb877f1e6c2/index.m3u8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_480p/hdntl=exp=1729160028~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=156135710~data=hdntl~hmac=ace6868f53fedf97bf0cfb331b345e8208998d9f644d35344321ee81ec6e382a/index.m3u8?hdnts=exp=1729160027~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=156135710~hmac=fb19ad34cc07378612a944863cad0c6a2c4fe3a5b641c05255fef73f9ca63207
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=800000,NAME=360p,RESOLUTION=480x360
-https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_205_360p/hdntl=exp=1728732457~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=166555479~data=hdntl~hmac=e32b5915d01fd216321f40cd83a4561cf07dd1a14b174cb7eaf4aeb877f1e6c2/index.m3u8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_360p/hdntl=exp=1729160028~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=156135710~data=hdntl~hmac=ace6868f53fedf97bf0cfb331b345e8208998d9f644d35344321ee81ec6e382a/index.m3u8?hdnts=exp=1729160027~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=156135710~hmac=fb19ad34cc07378612a944863cad0c6a2c4fe3a5b641c05255fef73f9ca63207
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=500000,NAME=240p,RESOLUTION=360x240
-https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_205_240p/hdntl=exp=1728732457~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=166555479~data=hdntl~hmac=e32b5915d01fd216321f40cd83a4561cf07dd1a14b174cb7eaf4aeb877f1e6c2/index.m3u8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_240p/hdntl=exp=1729160028~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=156135710~data=hdntl~hmac=ace6868f53fedf97bf0cfb331b345e8208998d9f644d35344321ee81ec6e382a/index.m3u8?hdnts=exp=1729160027~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=156135710~hmac=fb19ad34cc07378612a944863cad0c6a2c4fe3a5b641c05255fef73f9ca63207
 
