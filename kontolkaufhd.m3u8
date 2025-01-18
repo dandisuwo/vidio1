@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://itv2.xlive.workers.dev/https://bf.jllives.cc/live/322656_hd01.m3u8?txSecret=97b764627113aad08dbd1cb15b449219&txTime=671909a4
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_18234_1080p/hdntl=exp=1737197024~acl=%2flive%2f18234%2fmaster.m3u8!%2fhls-p%2fingest_18234*%2f*!%2fhls-b%2fingest_18234*%2f*~id=172076933~data=hdntl~hmac=b12afeffefadeebfae42b4e1f9dd0f69e43fd6e1be87a037364a51d98ed54b3e/index.m3u8
 
 
 
