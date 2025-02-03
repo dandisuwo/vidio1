@@ -22,17 +22,27 @@
        .popup-button {
            position: fixed;
            bottom: 50px;
-           left: 15px;
+           left: 20px;
            padding: 10px 20px;
-           background-color: #007BFF;
-           color: white;
+           background: linear-gradient(
+               to right, /* Arah gradien: dari kiri ke kanan */
+               rgba(0, 0, 0.5) 75%, /* 75% area dari KIRI berwarna hitam (opacity 20%) */
+               transparent 100% /* Sisanya memudar ke transparan */
+           );
+           color: gold;
            text-decoration: none;
            border-radius: 9px;
            font-size: 8px;
            z-index: 1000;
+           border: 0px solid rgba(255, 255, 255, 0.3);
+           transition: background 0.3s ease;
        }
        .popup-button:hover {
-           background-color: #0056b3;
+           background: linear-gradient(
+               to right, /* Tetap dari kiri ke kanan saat dihover */
+               rgba(0, 0, 0, 0.4) 75%, /* Hitam lebih gelap */
+               transparent 100%
+           );
        }
    </style>
 </head>
@@ -44,7 +54,7 @@
    </div>
    
    <!-- Tombol Popup -->
-   <a href="https://poawooptugroo.com/4/8892032" class="popup-button">Klik disini Untuk Mendukung sportX</a>
+   <a href="https://arjunaaaaa.github.io/lsbtv/gaya.css" class="popup-button">Klik disini untuk mendukung sportX</a>
    
    <script>
        // Fungsi untuk mengambil parameter dari URL
