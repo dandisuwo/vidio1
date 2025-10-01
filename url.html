@@ -70,6 +70,12 @@
            const iframe = document.getElementById('wcq');
            iframe.src = urlBaru; // Mengatur src iframe berdasarkan parameter URL
        }
+       function openNewLink() {
+    var gons = getUrlParameter('ns');
+    if (gons) {
+      window.open(gons, '_blank');
+    }
+  }
 
        // Mengubah teks tombol setelah diklik
        const tombol = document.getElementById('tombol');
