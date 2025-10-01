@@ -4,9 +4,8 @@
    <title>XYS SATU</title>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width">
-   <meta name="referrer" content="same-origin">
    <link rel="stylesheet" href="https://arjunaaaaa.github.io/lsbtv/gaya.css" />
-   <script src="https://pidio.pages.dev/player/jw/ifm.js"></script>
+  
    <style> 
        .center { 
            display: flex; 
@@ -15,12 +14,10 @@
            height: 100vh; 
        } 
 
-	   
        .popup-button {
            position: fixed;
            bottom: 50px;
            left: 10px;
-          
            padding: 10px 20px;
            background: linear-gradient(
                to right,
@@ -43,9 +40,8 @@
                transparent 100%
            );
        }
-       
    </style>
-</head>
+   </head>
 <body>
    <div class="center">
       <iframe title="bang ampun bang" id="wcq" width="100%" height="100%" frameborder="0" 
@@ -53,10 +49,8 @@
               allowfullscreen></iframe>
    </div>
 
-   <!-- Popup Container -->
-   
    <!-- Tombol Popup -->
-   <a href="https://www.revenuecpmgate.com/g2w7ut1hm4?key=53a1b14dfd7afcf9793564250efbef70" class="popup-button" id="tombol">Hati Hati kegocek iklan! Kalau Tanda Ini Hilang, Langsung Tekan Tombol Kembali/Back</a>
+   <a href="https://www.revenuecpmgate.com/g2w7ut1hm4?key=53a1b14dfd7afcf9793564250efbef70" class="popup-button" id="tombol">WELCOME TO VVIPROOM NEW!</a>
 
    <script>
        // Fungsi untuk mengambil parameter dari URL
@@ -70,11 +64,11 @@
            return decodeURIComponent(results[2].replace(/\+/g, ' '));
        }
 
-       // Mendapatkan id dari parameter URL
-       const idBaru = getParameterByName('id');
-       if (idBaru) {
+       // Mendapatkan URL dari parameter 'id' dan mengatur src iframe
+       const urlBaru = getParameterByName('id');
+       if (urlBaru) {
            const iframe = document.getElementById('wcq');
-           iframe.id = idBaru;
+           iframe.src = urlBaru; // Mengatur src iframe berdasarkan parameter URL
        }
 
        // Mengubah teks tombol setelah diklik
@@ -82,7 +76,7 @@
        tombol.addEventListener('click', function(e) {
            e.preventDefault(); // Mencegah navigasi langsung
            this.style.opacity = '1.9'; // Efek redup sementara
-           this.innerHTML = 'Karna Anda Dialihkan Oleh Iklan'; // Ganti teks
+           this.innerHTML = 'Knapa Diklik? iklan Akan Muncul dalam 3 detik'; // Ganti teks
            
            // Setelah 1 detik, navigasikan ke link
            setTimeout(() => {
@@ -90,6 +84,5 @@
            }, 1000);
        });
    </script>
-   <script src="https://pidio.pages.dev/player/jw/ifm.js"></script>
 </body>
 </html>
